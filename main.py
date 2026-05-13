@@ -56,12 +56,12 @@ prepared_df = full_pipeline.fit_transform(housing_df)
 # print(prepared_df)
 
 # 10. predicting the results
-# model = RandomForestRegressor()
-# model.fit(prepared_df, df_labels)
-# input_data =  pd.read_csv(r"d:\DS Learning/input.csv")
-# transformed_input = full_pipeline.transform(input_data)
-# prediction = model.predict(transformed_input)
-# input_data['median_house_value'] = prediction
+model = RandomForestRegressor()
+model.fit(prepared_df, df_labels)
+input_data =  pd.read_csv(r"d:\DS Learning/input.csv")
+transformed_input = full_pipeline.transform(input_data)
+prediction = model.predict(transformed_input)
+input_data['median_house_value'] = prediction
 
-# input_data["median_house_value"].to_csv("output1.csv", index=False)
-# print("Model trained successfully!")
+input_data["median_house_value"].to_csv("output1.csv", index=False)
+print("Model trained successfully!")
