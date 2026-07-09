@@ -116,7 +116,7 @@ output1.csv
 ```text
 California-Housing-Prediction/
 │___ jupyter notebook
-├── CF_main.py
+├── main.py
 ├── housing.csv
 ├── output1.csv
 ├── requirements.txt
