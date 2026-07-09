@@ -26,6 +26,21 @@ The goal of this project is to build an optimized regression model capable of ac
 
 ---
 
+## 📦 Project Structure
+
+```text
+California-Housing-Prediction/
+│___ jupyter notebook
+├── main.py
+├── housing.csv
+├── output1.csv
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+---
+
 ## 🛠 Technologies & Libraries Used
 
 * Python
@@ -95,7 +110,7 @@ The models were evaluated using:
 * RMSE (Root Mean Squared Error)
 * Cross Validation
 
-These evaluation techniques helped measure the model’s prediction performance and generalization capability.
+These evaluation techniques helped measure the model's prediction performance and generalization capability.
 
 ---
 
@@ -107,21 +122,6 @@ Example:
 
 ```text
 output1.csv
-```
-
----
-
-## 📦 Project Structure
-
-```text
-California-Housing-Prediction/
-│___ jupyter notebook
-├── main.py
-├── housing.csv
-├── output1.csv
-├── requirements.txt
-├── .gitignore
-└── README.md
 ```
 
 ---
