@@ -8,22 +8,22 @@ This project demonstrates a complete end-to-end ML workflow including data prepr
 
 ![Project insights](Insights.png)
 
-## Insights & Business Answers (from Insights.png)
+## Insights & Business Answers
 
-- What are the main drivers of house prices?
+- **What are the main drivers of house prices?**
   - Median income is the strongest predictor of median house value. Areas with higher median income tend to have higher house prices.
   - Proximity to the ocean and location-related factors (neighborhood desirability) increase prices.
   - Housing features such as rooms per household, bedrooms-per-room ratio, and housing median age also influence prices.
 
-- Where should investors focus?
+-**Where should investors focus?**
   - Prioritize neighborhoods with above-average median income and lower population density, especially those closer to the coast or with strong local amenities.
   - Look for properties with favorable rooms-per-household and lower household crowding (lower bedrooms/rooms ratio).
 
-- Which features should the model prioritize?
+- **Which features should the model prioritize?**
   - Median income, rooms_per_household, population_per_household, proximity-to-ocean (or a location proxy), and housing_median_age.
   - Create derived features (rooms_per_household, bedrooms_per_room, population_per_household) — they improve model performance.
 
-- Recommended next steps for the business
+- **Recommended next steps for the business**
   - Collect additional location and amenity features (school quality, transport links) to improve predictions.
   - Perform hyperparameter tuning and feature selection to further improve model accuracy.
   - Deploy a dashboard to visualize predicted values and highlight high-opportunity neighborhoods for investment.
