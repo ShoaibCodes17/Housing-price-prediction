@@ -4,6 +4,9 @@ A Machine Learning project focused on predicting housing prices using the Califo
 This project demonstrates a complete end-to-end ML workflow including data preprocessing, feature engineering, model training, evaluation, and prediction export.
 
 ---
+<p align="center">
+  <img src="insights.png" alt="Project insights" width="600" />
+</p>
 
 ## 📌 Project Overview
 
