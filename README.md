@@ -4,7 +4,7 @@ A Machine Learning project focused on predicting housing prices using the Califo
 This project demonstrates a complete end-to-end ML workflow including data preprocessing, feature engineering, model training, evaluation, and prediction export.
 
 ---
-![Project insights](https://raw.githubusercontent.com/ShoaibCodes17/Housing-price-prediction/master/insights.png)
+![Project insights](Insights.png)
 
 ## 📌 Project Overview
 
