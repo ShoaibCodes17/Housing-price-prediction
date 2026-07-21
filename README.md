@@ -72,6 +72,7 @@ California-Housing-Prediction/
 * Pandas
 * NumPy
 * Scikit-learn
+* Power BI
 
 ---
 
