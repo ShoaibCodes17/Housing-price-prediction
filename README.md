@@ -15,7 +15,7 @@ This project demonstrates a complete end-to-end ML workflow including data prepr
   - Proximity to the ocean and location-related factors (neighborhood desirability) increase prices.
   - Housing features such as rooms per household, bedrooms-per-room ratio, and housing median age also influence prices.
 
--**Where should investors focus?**
+- **Where should investors focus?**
   - Prioritize neighborhoods with above-average median income and lower population density, especially those closer to the coast or with strong local amenities.
   - Look for properties with favorable rooms-per-household and lower household crowding (lower bedrooms/rooms ratio).
 
