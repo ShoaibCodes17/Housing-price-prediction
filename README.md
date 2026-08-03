@@ -6,7 +6,7 @@ This project demonstrates a complete end-to-end ML workflow including data prepr
 ---
 ## Insights
 
-![Project insights](Insights.png)
+![Project insights](Dashboard.png)
 
 ## Insights & Business Answers
 
