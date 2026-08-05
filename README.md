@@ -151,7 +151,7 @@ output1.csv
 ```
 
 ---
-## ✨ Model Performance
+## 🎉 Model Performance Result
 
 My predictive model has demonstrated remarkable efficiency, achieving an impressive accuracy of 89%. This outstanding performance underscores the robustness of the training pipeline and highlights the model’s ability to deliver reliable, high‑quality predictions with consistency.
 
